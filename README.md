@@ -10,30 +10,30 @@ I'm not here to win Advent of Code or climb the leaderboard — I use the puzzle
 
 ## Solutions
 
-| Day    | 2024                                                                           |
-| ------ | ------------------------------------------------------------------------------ |
-| Day 01 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day01/python) |
-| Day 02 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day02/python) |
-| Day 03 |                                                                                |
-| Day 04 |                                                                                |
-| Day 05 |                                                                                |
-| Day 06 |                                                                                |
-| Day 07 |                                                                                |
-| Day 08 |                                                                                |
-| Day 09 |                                                                                |
-| Day 10 |                                                                                |
-| Day 11 |                                                                                |
-| Day 12 |                                                                                |
-| Day 13 |                                                                                |
-| Day 14 |                                                                                |
-| Day 15 |                                                                                |
-| Day 16 |                                                                                |
-| Day 17 |                                                                                |
-| Day 18 |                                                                                |
-| Day 19 |                                                                                |
-| Day 20 |                                                                                |
-| Day 21 |                                                                                |
-| Day 22 |                                                                                |
-| Day 23 |                                                                                |
-| Day 24 |                                                                                |
-| Day 25 |                                                                                |
+|  Day | 2024                                                                           |
+| ---: | :----------------------------------------------------------------------------- |
+|   01 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day01/python) |
+|   02 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day02/python) |
+|   03 |                                                                                |
+|   04 |                                                                                |
+|   05 |                                                                                |
+|   06 |                                                                                |
+|   07 |                                                                                |
+|   08 |                                                                                |
+|   09 |                                                                                |
+|   10 |                                                                                |
+|   11 |                                                                                |
+|   12 |                                                                                |
+|   13 |                                                                                |
+|   14 |                                                                                |
+|   15 |                                                                                |
+|   16 |                                                                                |
+|   17 |                                                                                |
+|   18 |                                                                                |
+|   19 |                                                                                |
+|   20 |                                                                                |
+|   21 |                                                                                |
+|   22 |                                                                                |
+|   23 |                                                                                |
+|   24 |                                                                                |
+|   25 |                                                                                |
