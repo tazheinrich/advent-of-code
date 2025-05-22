@@ -8,7 +8,7 @@ Each puzzle can be solved in any programming language and often requires a mix o
 
 I'm not here to win Advent of Code or climb the leaderboard — I use the puzzles more like a coding gym. It's my excuse to learn a new programming language, stretch my brain a bit, and knock the dust off some long-forgotten syntax. I add solutions whenever I get around to them, so don't expect a complete set — this is more of a "whenever-I-feel-like-it" kind of thing than a daily grind.
 
-### Solutions
+## Solutions
 
 | Day    | 2024                                                                           |
 | ------ | ------------------------------------------------------------------------------ |
