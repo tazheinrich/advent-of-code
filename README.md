@@ -13,7 +13,7 @@ I’m not here to win Advent of Code or climb the leaderboard — I use the puzz
 | Day    | 2024                                                                           |
 | ------ | ------------------------------------------------------------------------------ |
 | Day 01 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day01/python) |
-| Day 02 |                                                                                |
+| Day 02 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day02/python) |
 | Day 03 |                                                                                |
 | Day 04 |                                                                                |
 | Day 05 |                                                                                |
