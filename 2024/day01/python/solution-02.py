@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Define input path
 script_dir = Path(__file__).resolve().parent
-input_path = script_dir / "input01.txt"
+input_path = script_dir.parent / "input01.txt"
 
 # Read and parseinput 
 with input_path.open("r") as file:
