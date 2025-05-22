@@ -7,3 +7,33 @@ Each puzzle can be solved in any programming language and often requires a mix o
 ## Participation
 
 I’m not here to win Advent of Code or climb the leaderboard — I use the puzzles more like a coding gym. It’s my excuse to learn a new programming language, stretch my brain a bit, and knock the dust off some long-forgotten syntax. I add solutions whenever I get around to them, so don’t expect a complete set — this is more of a "whenever-I-feel-like-it" kind of thing than a daily grind.
+
+### Overview
+
+| Day    | 2024                                                                     |
+| ------ | ------------------------------------------------------------------------ |
+| Day 01 | ![Python](https://www.python.org/static/community_logos/python-logo.png) |
+| Day 02 |                                                                          |
+| Day 03 |                                                                          |
+| Day 04 |                                                                          |
+| Day 05 |                                                                          |
+| Day 06 |                                                                          |
+| Day 07 |                                                                          |
+| Day 08 |                                                                          |
+| Day 09 |                                                                          |
+| Day 10 |                                                                          |
+| Day 11 |                                                                          |
+| Day 12 |                                                                          |
+| Day 13 |                                                                          |
+| Day 14 |                                                                          |
+| Day 15 |                                                                          |
+| Day 16 |                                                                          |
+| Day 17 |                                                                          |
+| Day 18 |                                                                          |
+| Day 19 |                                                                          |
+| Day 20 |                                                                          |
+| Day 21 |                                                                          |
+| Day 22 |                                                                          |
+| Day 23 |                                                                          |
+| Day 24 |                                                                          |
+| Day 25 |                                                                          |
