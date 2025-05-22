@@ -10,8 +10,8 @@ I'm not here to win Advent of Code or climb the leaderboard — I use the puzzle
 
 ## Solutions
 
-|  Day |                                                                           2024 |
-| ---: | -----------------------------------------------------------------------------: |
+|  Day |                                      2024                                      |
+| ---: | :----------------------------------------------------------------------------: |
 |   01 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day01/python) |
 |   02 | [🐍](https://github.com/tazheinrich/advent-of-code/tree/main/2024/day02/python) |
 |   03 |                                                                                |
