@@ -1,15 +1,14 @@
-sample = """MMMSXXMASM
-MSAMXMSMSA
-AMXSXMAAMM
-MSAMASMSMX
-XMASAMXAMM
-XXAMMXXAMA
-SMSMSASXSS
-SAXAMASAAA
-MAMMMXMMMM
-MXMXAXMASX"""
+# Import libraries
+from pathlib import Path 
 
-grid = [list(row) for row in sample.strip().split("\n")]
+# Define input path
+script_dir = Path(__file__).resolve().parent
+input_path = script_dir.parent / "input01.txt"
+
+with input_path.open("r", encoding="utf-8") as f:
+    input = f.read()
+
+grid = [list(row) for row in input.strip().split("\n")]
 num_rows = len(grid)
 num_cols = len(grid[0])
 
